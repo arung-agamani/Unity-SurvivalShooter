@@ -1,0 +1,5 @@
+﻿
+interface BasePowerUp
+{
+    void Apply();
+}
